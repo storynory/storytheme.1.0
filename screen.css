@@ -1,0 +1,205 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}#wrapper{text-align:left}body{text-align:center;line-height:1;font-size:62.5%;font-family:"helvetica neue", helvetica, arial, sans-serif;background:#fff}ul{list-style:none}a{text-decoration:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:separate;border-spacing:0}img{display:block}#container:after,#wrapper:after,.clearfix:after{content:"";display:block;height:0;clear:both}.clear,#footer,ol.commentlist{clear:both}em{font-style:italic}.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}a{color:#4b0082;text-decoration:underline}a:hover{text-decoration:underline;color:blue}h2 a{text-decoration:none}h1{background:url(http://storynory.cachefly.net/web-banner.jpg) no-repeat top left;display:block;width:948px;height:300px;clear:both}h1 span{display:none}.article p{font-size:1.4em;line-height:1.5;margin-bottom:1.5em}p.byline{font-size:1.05em;line-height:2em;margin-bottom:2em}span.comment{font-size:1.2em;font-weight:bold;line-height:1.75;float:right;position:relative;left:20px}h2{font-size:3em;font-weight:400;line-height:1.4;letter-spacing:1px;float:left;color:#007100;width:100%}h2.single{width:360px;padding-bottom:0.7em;position:relative}.article h2 a{color:#007400;text-decoration:none}.article li{font-size:1.4em;line-height:1.5;margin-bottom:1.5em}dt,dd{font-size:1.28em;line-height:1.5625}dt{float:left;clear:left;text-align:left;font-weight:bold}dd{margin:0 0 0 110px;padding:0 0 0.5em 0}ul.commentlist{font-size:1.4em;line-height:1.5;margin-bottom:1.5em;padding-left:20px}ul.commentlist li{padding:1.5em 10px}.odd{border-top:1px solid #efefef;border-bottom:1px solid #efefef;background:#feefff}.byuser{padding-left:40px;padding:6em 0 1.5em 40px;margin:0.725em 0}.comment-author-matthew{background:#dfffe6 url(http://storynory.cachefly.net/bertie100.png) no-repeat top right}.comment-author-natasha{background:#dfffe6 url(http://storynory.cachefly.net/thumbs/mermaid.png) no-repeat top right}h3{float:left;font-size:2em;line-height:1.05;padding:1.05em 0;font-weight:400;letter-spacing:1px;width:100%}h3.archives,#bar1 h3{padding:1.05em  0px;color:#ffefef}ul.archives li,#bar1 ul li{font-size:1.2em;line-height:1.75;padding:0.6em 20px}li.descrip img{float:left}ul.archives a,#bar a{display:block;width:100%}ul.archives a:hover,#bar a:hover,#archives a:hover{background:#efefef}ul.archives,#bar1 ul{clear:both;float:left;padding:0 0  21px;margin-bottom:4.2em;zoom:1}ul.archives li,#bar1 li{background:white;border-left:1px solid;border-right:1px solid}h3.archives,ul.archives,#bar1 h3,#bar1 ul{background-image:url(http://storynory.cachefly.net/box260.png);background-repeat:no-repeat}h3.archives,#bar1 h3{width:220px;padding-left:20px;padding-right:20px}#bar1 ul,#bar2 dl{width:259px}ul.archives li #bar1 ul li{width:218px;float:left;border-left:1px solid;border-right:1px solid}h3.classic-authors-for-children{background-position:0 0}ul.classic-authors-for-children{background-position:0 bottom}h3.educational-and-entertaining-stories{background-position:-309px 0}ul.educational-and-entertaining-stories{background-position:-309px bottom}ul.fairy-tales{background-position:-618px bottom}#bar1 h3.fairy-tales,h3.fairy-tales{background-position:-618px 0;color:#333}h3.original-stories-for-children{background-position:-927px 0}ul.original-stories-for-children{background-position:-927px bottom}#bar2 h3,#bar2 ul{background-repeat:no-repeat;width:160px;float:left}#bar2 h3{clear:both;width:100px;padding-left:30px;padding-right:30px}#bar2 ul{margin-bottom:2em}#bar2 h3.classic-authors-for-children{background-position:0 0}#bar2 h3.educational-and-entertaining-stories{background-position:-210px 0}#bar2 h3.fairy-tales{background-position:-420px 0}#bar2 h3.original-stories-for-children{background-position:-630px 0}#bar2 ul.classic-authors-for-children{background-position:0 bottom}#bar2 ul.educational-and-entertaining-stories{background-position:-210px bottom}#bar2 ul.fairy-tales{background-position:-420px bottom}#bar2 ul.original-stories-for-children{background-position:-630px bottom}h2.educational{color:#4b0082}h2.fairy-tales{color:#ffff00}h2.original{color:#007100}h2.classic{color:#0000ff}.navigation{font-size:1.4em;line-height:1.5}ul#nav{display:block;width:940px;padding:10px 0 40px 0px}ul#nav li{float:left;display:block;padding:0 10px 5px 35px;margin-left:5px;background-image:url(http:/http://storynory.cachefly.net/icon-sprites.png);background-repeat:no-repeat;background-position:top left}#nav li.none{background-image:none;padding:0;margin:0}#nav li.authors{background-image:url(http:/http://storynory.cachefly.net/icon-sprites.png);background-position:0 0}#nav li.edu{background-image:url(http:/http://storynory.cachefly.net/icon-sprites.png);background-position:0 -82px}#nav li.fairytales{background-image:url(http:/http://storynory.cachefly.net/icon-sprites.png);background-position:0 -164px}#nav li.jnr{background-image:url(http://storynory.cachefly.net/icon-sprites.png);background-position:0 -246px}#nav li.latest{background-image:url(http://storynory.cachefly.net/icon-sprites.png);background-position:0 -328px}#nav li.original{background-image:url(http://storynory.cachefly.net/icon-sprites.png);background-position:0 -410px}#nav a{float:left;display:block;padding:5px 5px 2px 10px;font-size:1.4em;line-height:1.5}#nav .active{background-color:white;font-weight:bold}.home h2{width:100%;padding:.7em 0 .7em 0}h5{clear:both;float:left}.home h2.first{padding-top:0}ul.homelatest,ul#homelatest{float:left;clear:both;width:100%}ul.homelatest li,ul#homelatest li{display:inline;float:left;margin-right:10%}ul.homelatest h5,ul#homelatest h5{display:block;width:100px;text-align:left}ul.homelatest img,ul#homelatest img{margin-bottom:.5em}img.front{margin-right:40px}h6{font-size:1em;line-height:1;margin:1.6em 0 .8em}#bar img{float:left;padding:0 10px 2em 0}.article img{float:left;padding:0 10px 10px 0}.left{float:left}img.left{margin-right:20px}.right{float:right}.centre{margin-left:auto;margin-right:auto;display:block;clear:both}.floatnone{float:none}object.player{margin:.875em 0;padding:0;height:2.4em}form{font-size:1.4em;line-height:1.5;margin-bottom:1.5em}#commentform legend{font-size:1.6em;line-height:2}#commentform textarea{padding:.725em 10px;margin:.725em 0;width:455px}#s{font-size:1em}#top{width:100%;font-size:1.2em;text-align:left;padding:.5em;background:#0000ff;color:white}#wrapper{position:relative;zoom:1;width:980px;margin:auto}#header{width:100%;padding:0}#container{position:relative;float:left;clear:both;width:980px;margin-top:-140px}#content,#bar1,#bar2{display:inline;overflow:hidden}#content{float:left;width:480px;margin-left:200px;margin-right:40px}#bar1{float:left;width:260px;margin-top:4.2em;margin-left:0px}#bar2{display:block;float:left;margin-top:8px;margin-left:-980px}#footer{padding:2.1em 0}#respond{width:100%;overflow:hidden;clear:both}.article{float:left;margin-bottom:4.2em;width:480px;zoom:1;clear:both}.article p{text-align:justify}.archives h2{width:480px}#archives{float:left;width:960px}#col1,#col2,#col3{display:inline;width:260px;margin-right:60px}#col1 ul li,#col2 ul li,#col3 ul li{width:218px}#col1{float:left}#col2{float:left}#col3{float:left}ol{font-size:14px}.attachment-thumbnail,.imgleft{clear:both;float:left}div.category_summary{float:right;width:340px}img.icon{float:left;padding:0 10px 10px 0}.wp-pagenavi{clear:both;margin-bottom:20px}.wp-pagenavi a,.wp-pagenavi span{text-decoration:none;border:1px solid #BFBFBF;padding:3px 5px;margin:2px}.wp-pagenavi a:hover,.wp-pagenavi span.current{border-color:#000}.wp-pagenavi span.current{font-weight:bold}
+
+#tooltip {
+    position: absolute;
+    font-size: 20px;
+    display: block;
+    padding: 10px;
+    background: #f9f9f9;
+    border: 3px solid #eee;
+    text-align: center;
+   }
+	.fatButton,.speaker,.open {
+			background-image: url(/wp-content/themes/storynory/img/audioSmall1.png);	
+		background-repeat: no-repeat;
+	}
+
+
+
+.play{
+	background-position: 25px 10px
+}
+
+.play:hover {
+	background-position: 25px -105px
+}
+
+.pause {
+	background-position: -90px 10px
+}
+
+.pause:hover{
+	background-position: -90px -105px
+}
+
+
+a.download {
+float: right;
+background-position: -205px 10px;
+}
+
+a.download:hover {
+float: right;
+background-position: -205px -105px;
+}
+
+.speaker {
+	height: 50px;
+	width: 40px;
+
+    margin-bottom: 40px;
+    position: absolute;
+top: 0px;
+right: 40px;
+	background-position: -320px -108px;
+}
+
+.open {
+		height: 50px;
+		width: 40px;
+
+	    margin-bottom: 40px;
+	    position: absolute;
+	top: 0px;
+	right: 0px;
+		background-position: -320px 10px;
+}	
+
+
+.button{overflow:visible;
+	display:inline-block;
+	cursor:pointer;
+	text-decoration:none;
+	}
+
+.fatButton {
+	width: 50px;
+	height: 40px;
+	padding: 5px 10px;
+	background-color: #008900;
+
+	}
+
+
+
+
+.border {
+	border:1px solid #030303;
+	}
+
+
+
+.audioPlayer{
+	position:relative;
+	 float:left;
+	width:410px;
+	padding-bottom: 18px;
+}
+
+.playPause {
+	float: left;
+	}
+
+.stats{ 
+	position:absolute;
+	top:0px;
+	right:100px;
+	}
+
+.stats span{
+	display:inline-block;
+	float:left;
+	padding:5px;
+	font-size:20.8px;
+	color:#0d9344;
+	}
+
+
+
+.slider {
+	float:left;
+	position: relative;
+     height: 16px;
+	width: 250px;
+	background: green;
+	margin-top: 30px;
+	margin-left: 10px;
+	border-radius: 8px;
+	}
+
+.progress {
+	position: absolute;
+	background: blue;
+	height: 2px;
+	width: 0;
+	top: 48%;
+}
+
+.rounded {
+	-webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+ 
+}
+
+ a.handle
+{ 
+	position: absolute;
+	bottom: -3px;
+	height: 24px;
+	width: 20px;
+	background: blue;
+	border-radius: 10px;
+
+	}
+
+.seekBar{
+margin-left: -2000px;
+	}
+
+
+
+
+.indicator {
+
+	width: 10px;
+	height: 10px;
+	margin: 8px;
+	display:inline-block;
+	float:left;
+	}
+
+.loader {
+		background: url(/wp-content/themes/storynory/img/loader.gif) no-repeat;
+	
+}
+
+
+.range-input {
+  position: relative;
+  height: 25px;
+}
+
+.range-rail {
+  background: url('images/rail-x.png') repeat-x 0 -2px;
+  height: 10px;
+}
+
+.range-selection {
+  position: absolute;
+  background: #aaa;
+  height: 3px;
+  top: 5px;
+  border-top: 1px solid #999;
+}
+
+.range-handle {
+  display: block;
+  position: absolute;
+  top: 0px;
+  background: url('images/thumb.png') no-repeat 0 -12px;
+  width:14px;
+  height: 26px;
+  border-radius: 10px;
+}
+

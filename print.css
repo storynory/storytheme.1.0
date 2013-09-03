@@ -1,0 +1,76 @@
+body {
+background: white;
+font-family: serif;
+font-size: 13px;
+line-height: 18px;
+}
+
+#nav,
+#footer,
+form,
+.comment,
+object,
+#bar1,
+#bar2,
+#stories,
+#respond {
+	display: none;
+	}
+
+h1,h2,h3,h4,h5 {
+clear: both;
+}
+
+	
+ul {
+margin: 0;
+padding: 0;
+
+}	
+
+ul li {
+list-style: none;
+}
+
+img {
+float: left;
+padding: 0 10px 10px 0;
+clear: both;
+
+}
+
+	
+#wrapper, #container {
+	width: auto;
+	border: 0;
+	margin: 0 5%;
+	padding: 0;
+	float: none !important;
+	color: black; 
+	background: transparent;
+	}
+	
+#container {
+	margin-left: 10%;
+}
+
+a:link, a:visited {
+	color: #3f00fd;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+	
+#content a:link:after, #content a:visited:after {
+   content: " (" attr(href) ") ";
+   font-size: 90%;
+   }	
+	
+#content a[href^="/"]:after {
+  content: " (http://www.storynory.com" attr(href) ") ";
+   }
+   
+  #container:after {
+  content: "<h3>Please visit Storynory.com for free audio stories. </h3><p> All texts and  audio materials downloaded from Storynory.com are copyright Storynory Ltd unless otherwise stated.  You may use print-outs from our site inside your school, home, hospital, or therapeutic class. Contact bertie@storynory.com for other types of permission.</p>"
+  
+  } 

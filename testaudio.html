@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<title>Page Title</title>
+
+<!-- stylesheets -->
+
+</head>
+<header>
+</header>
+<body>
+<div id="result"> Result</div>
+<div id="footer>
+ </div>
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+		testAudio = function() {
+             try {
+	           
+		         var canplay = document.createElement('audio').canPlayType('audio/mpeg');
+	             if (canplay === "probably"){
+	          console.log("probably")
+                  } 
+                   else if (canplay === "maybe") {
+	                  console.log("Maybe")
+		             }  
+	                 
+	                    else {
+                     console.log("false");
+				      }    
+
+	            }  
+	          catch(error) {
+	     console.log("false");
+	      }
+       	}
+
+testAudio();
+
+  
+	
+</script>	
+	
+
+
+
+</body>
+</html>
